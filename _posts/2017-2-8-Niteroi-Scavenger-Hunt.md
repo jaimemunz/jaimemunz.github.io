@@ -34,7 +34,7 @@ Exterior With Materials [2]
 
 My first print source is Planet Niemeyer, which is cited as a source from a magazine later in this blog. 
 
-My second print source is Simone Neiva's article titled "Museum of Contemporary Art of Niteroi: Lightness Molded in Concrete." This article talks about Oscar Niemeyer's use of traditional materials to create modern buildings. The author argues that it is not entirely necessary to for architects to rely soley on plastic to give buildings the feeling of lightednesss. Oscar Niemeyer is said to cleverly use the shape and structure of buildings to give this desired effect, and that one would not immediately realize that the Niteroi Museum of Contemporary Art is made entirely of concrete and glass. Oscar Niemeyer uses curves, color, and glass in ways few other architects are able to do and this makes him one of the most important architects of the 20th Century. [3]
+My second print source is Simone Neiva's article titled "Museum of Contemporary Art of Niteroi: Lightness Molded in Concrete." This article talks about Oscar Niemeyer's use of traditional materials to create modern buildings. The author argues that it is not entirely necessary to for architects to rely soley on plastic to give buildings the feeling of lightness. Oscar Niemeyer is said to cleverly use the shape and structure of buildings to give this desired effect, and that one would not immediately realize that the Niteroi Museum of Contemporary Art is made entirely of concrete and glass. Oscar Niemeyer uses curves, color, and glass in ways few other architects are able to do and this makes him one of the most important architects of the 20th Century. [3]
 
 ### My Drawing
 
@@ -79,9 +79,9 @@ In the article titled "A look back at Oscar Niemeyer, master of curved concrete"
 
 ### Three Things I learned from a Journal about my Building
 
-* While other buildings with a curved surface have difficulty displaying art becauseof the curvature of the walls, Niemeyer neatly solves this issue by creating an inner hexagonal-shaped core of space enclosed by flat screen walls.
+* While other buildings with a curved surface have difficulty displaying art because of the curvature of the walls, Niemeyer neatly solves this issue by creating an inner hexagonal-shaped core of space enclosed by flat screen walls.[1]
 * The building is only one of many other buildings designed by Niemeyer in the bay of Niteroi, part of a "more ambitious urban redevelopment plan to revive the suburb's fortunes." [1]
-* The use of verticall mullions contrasted with teh white carapace is used to magify the scale and underscore the "building's function as a civic landmark."
+* The use of verticall mullions contrasted with teh white carapace is used to magnify the scale and underscore the building's function as a civic landmark.[1]
 
 
 ### Citation
