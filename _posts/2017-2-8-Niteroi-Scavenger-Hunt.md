@@ -7,7 +7,7 @@ title: Niteroi Scavenger Hunt
 The Niteroi Contemporary Art museum was designed by famed Brazilian architect Oscar Niemeyer and completed in 1996. It is located in Niteroi, Rio de Janeiro, Brazil and is used as an exhibition space.
 
 ### Building Plans
-![Lowest Level](./images/lowest_level.JPG)
+![Lowest Level](/images/lowest_level.JPG)
 
 ![Intermediate Level](/images/intermediate_gallery.JPG)
 
