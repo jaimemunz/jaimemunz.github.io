@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Eight
+title: Week Seven
 ---
 
 ### Past Week
